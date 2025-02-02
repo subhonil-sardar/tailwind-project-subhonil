@@ -15,7 +15,11 @@ Check out the live version of this project:
 - React.js  
 - Tailwind CSS  
 - Material UI  
-- React Scroll  
+- React Scroll
+
+## Contact  
+📧 Email: [subhonilsardar@gmail.com](mailto:subhonilsardar@gmail.com)  
+🔗 LinkedIn: [Subhonil Sardar](https://www.linkedin.com/in/subhonil-sardar)
 
 ## Installation & Run  
 
@@ -33,3 +37,4 @@ npm install
 
 # Start the development server
 npm run dev
+  
