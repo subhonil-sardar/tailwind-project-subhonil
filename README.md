@@ -17,8 +17,19 @@ Check out the live version of this project:
 - Material UI  
 - React Scroll  
 
-## Contact  
-📧 Email: [subhonilsardar@gmail.com](mailto:subhonilsardar@gmail.com)  
-🔗 LinkedIn: [Subhonil Sardar](https://www.linkedin.com/in/subhonil-sardar)  
+## Installation & Run  
 
+Follow these steps to run the project locally:  
 
+```bash
+# Clone the repository
+git clone https://github.com/subhonil-sardar/tailwind-project-subhonil.git
+
+# Navigate to the project folder
+cd tailwind-project-subhonil
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
